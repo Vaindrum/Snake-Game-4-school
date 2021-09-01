@@ -21,7 +21,7 @@ bingo - boost your score (eat food to save your boosted score)
                                  Easter Eggs(work like cheats)-
 -----------------------------------------------------------------------------
 naagin - play naagin tune
-nokia - play arabic nokia tune
+nokia - play arabic nokia meme tune
 
 -----------------------------------------------------------------------------
                                   How To Play-
@@ -29,7 +29,7 @@ nokia - play arabic nokia tune
 - (Red) is food.
 - (Blue) is an orb
 - (Purple) is a poisonous berry.
-- Choose your character from a diverse roster of 10 idiots.
+- Choose your character from a roster of 3 idiots.
 - Navigate the character towards his food by using arrow keys.
 - Everytime you feed the character, his length increases, and so 
   does your score.
@@ -47,7 +47,7 @@ nokia - play arabic nokia tune
 -----------------------------------------------------------------------------
                                       About-
 -----------------------------------------------------------------------------
-Game khel na lawde
+A snake game with 8bit retro aesthetic for school project.
 
 -----------------------------------------------------------------------------
                                      Credits-
