@@ -44,10 +44,6 @@ nokia - play arabic nokia tune
 
 *Each character has a unique theme song, which you can activate by pressing Spacebar in game.
   
------------------------------------------------------------------------------
-                                      About-
------------------------------------------------------------------------------
-Game khel na lawde
 
 -----------------------------------------------------------------------------
                                      Credits-
